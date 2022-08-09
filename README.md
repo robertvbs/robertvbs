@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertvbs&show_icons=true&theme=radical&count_private=true)](https://github.com/robertvbs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertvbs&count_private=true&show_icons=true&theme=radical)](https://github.com/robertvbs)
 
 #### My social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robertvbs)](https://github.com/robertvbs)
