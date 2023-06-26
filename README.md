@@ -2,6 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertvbs&count_private=true&show_icons=true&theme=radical)](https://github.com/robertvbs)
 
 <div align="justify">
+  
 ## Experience in Software Development
 With over 15 years of experience in the field of software development, I started my career working with Visual Basic 6 and expanded my knowledge over time to include .NET development.
 
@@ -21,6 +22,7 @@ Over the years, I expanded my skill set beyond .NET and Visual Basic. Currently,
 
 ### Focus on Artificial Intelligence
 One of the areas I have been recently dedicated to is Artificial Intelligence (AI). I am working on the creation of software that utilizes AI to identify employees and customers, performing accurate counting and providing reliable data. I believe that the application of AI can bring a tremendous positive impact by increasing process efficiency and assisting in strategic decision-making.
+
 </div>
 
 #### My social networks:
