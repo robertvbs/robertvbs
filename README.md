@@ -20,9 +20,6 @@ Over the years, I expanded my skill set beyond .NET and Visual Basic. Currently,
 - Python
 - Kotlin
 
-### Focus on Artificial Intelligence
-One of the areas I have been recently dedicated to is Artificial Intelligence (AI). I am working on the creation of software that utilizes AI to identify employees and customers, performing accurate counting and providing reliable data. I believe that the application of AI can bring a tremendous positive impact by increasing process efficiency and assisting in strategic decision-making.
-
 </div>
 
 #### My social networks:
